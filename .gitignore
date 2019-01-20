@@ -1,5 +1,6 @@
 .vscode/*
 .ipynb_checkpoints/*
+scratch/
 
 ##
 ## Github's default Python .gitignore below:
